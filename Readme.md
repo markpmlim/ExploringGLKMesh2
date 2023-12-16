@@ -2,7 +2,7 @@
 <br />
 <br />
 
-We are continue with the investigation on how to create **GLKMeshes** objects that can be used in OpenGL demos on the macOS and iOS. 
+We continue with the investigation on how to create **GLKMeshes** objects that can be used in OpenGL demos on the macOS and iOS. 
 
 
 As mentioned in the previous demo (ExploringGLKMesh), the **GLKMesh** class method:
